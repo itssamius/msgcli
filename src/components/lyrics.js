@@ -1,5 +1,3 @@
-import { useEffect } from 'react';
-
 var ls = require('local-storage');
 var lyricsApi = require("apiseeds-lyrics");
 var _ = require('lodash');

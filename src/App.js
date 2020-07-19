@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 import { makeStyles } from '@bit/mui-org.material-ui.styles'
